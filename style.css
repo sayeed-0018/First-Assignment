@@ -76,9 +76,7 @@ section{
 .h{
     font-size: 35px;
 }
-{
-    box-sizing: border-box;
-}
+
 .box{
     background-image: linear-gradient(45deg, rgb(211, 84, 154),rgba(223, 24, 74, 0.733));
     height: 150px;
